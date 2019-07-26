@@ -3,5 +3,5 @@
 > Everyday sharing a ted speech
 
 - ### Ted list
-    - [ ] [那架不能弹奏的钢琴](http://open.163.com/movie/2016/1/I/9/MBCOIPHV4_MBCOJ3UI9.html)
+    - [x] [那架不能弹奏的钢琴](http://open.163.com/movie/2016/1/I/9/MBCOIPHV4_MBCOJ3UI9.html)
     - [ ] ...
