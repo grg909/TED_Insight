@@ -2,6 +2,10 @@
 
 > Everyday sharing a ted speech
 
-- ### Ted list
-    - [x] [那架不能弹奏的钢琴](http://open.163.com/movie/2016/1/I/9/MBCOIPHV4_MBCOJ3UI9.html)
-    - [ ] ...
+- Single
+    - How frustration can make us more creative
+        - Some disturb or frustration help you jump out of comfortable zone, think differently.
+
+- Ted 10 Love
+    - The brain in love
+        - love is kind of desire (not sex), being refused will even strengthen it.
