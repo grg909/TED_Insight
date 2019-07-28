@@ -8,4 +8,7 @@
 
 - Ted 10 Love
     - The brain in love
-        - love is kind of desire (not sex), being refused will even strengthen it.
+        - love is the desire of having something, being refused or can't get will even strengthen it.
+    - The secret to desire in a long-term relationship
+        - love is to have, desire is to want.
+        - Imagination, playfulness, novelty, curiosity, mystery improve your desire.
