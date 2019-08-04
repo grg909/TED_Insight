@@ -12,3 +12,7 @@
     - The secret to desire in a long-term relationship
         - love is to have, desire is to want.
         - Imagination, playfulness, novelty, curiosity, mystery improve your desire.
+    - How I hacked online dating
+        - Nothing impossible, design the system that works for me.
+    - The power of receiving letters
+        - slow down, traditional inefficient ways maybe better for showing what your care.
